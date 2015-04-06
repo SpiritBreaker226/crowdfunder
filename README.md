@@ -1,3 +1,4 @@
-##  Crowdfunder
+#  Crowdfunder
+## Bitmaker: Week 7
 
-This is the final assignment for Bitmaker, it is a cone of Kickstarter, a funding platform for creative projects.
+For the seventh week which is final assignment for Bitmaker, we had to create a clone of Kickstarter, a funding platform for creative projects.
